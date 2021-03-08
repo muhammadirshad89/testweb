@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.equancy.fr	TRUE	/	FALSE	1999999999	PHPSESSID	2e6fc3858174e4add4fe0c43a4a51d1e
+
